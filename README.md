@@ -54,5 +54,6 @@ The *Update Server* is an optional part of RoVer that can be enabled in `client.
     "cookie"            : String. The .ROBLOSECURITY cookie of the bot account used to fetch premium information of a user. (Not required if you're not using the premium virtualgroup, but whois will not report premium information correctly)
     "maxServerBindings" : Integer. Default unlimited. Maximum number of bindings allowed per server
 ```
-
+```
 [<img  data-src="https://deploy.stdlib.com/static/images/deploy.svg" width="192">](https://open.autocode.com/)
+```
